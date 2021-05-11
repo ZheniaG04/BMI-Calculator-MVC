@@ -1,4 +1,5 @@
 #  BMI Calculator
+![image](https://user-images.githubusercontent.com/33431077/117815562-48a74300-b26e-11eb-89ca-87ad730f1c19.png)
 
 ## Our Goal
 
